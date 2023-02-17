@@ -1,0 +1,12 @@
+{
+  "name": "framework-puya",
+  "version": "1.1.2",
+  "description": "Puya Peripheral Libraries",
+  "keywords": [
+    "framework",
+    "hal",
+    "py32",
+    "puya"
+  ],
+  "homepage": "https://www.puyasemi.com/cpzx3/info_267_aid_242_kid_235.html"
+}
